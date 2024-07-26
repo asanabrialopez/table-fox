@@ -5,7 +5,12 @@ VisualStudioVersion = 17.6.33815.320
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TableFox", "TableFox\TableFox.csproj", "{BE75C4CD-7086-4B7A-95F6-62A8580BC804}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TableFox.Test", "TableFox.Tests\TableFox.Test.csproj", "{4EC8E90A-B691-405F-8812-124D6193FFB0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TableFox.Test", "TableFox.Tests\TableFox.Test.csproj", "{4EC8E90A-B691-405F-8812-124D6193FFB0}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{BAE34E1C-15C0-4898-B703-9E58CB8851A1}"
+	ProjectSection(SolutionItems) = preProject
+		README.md = README.md
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
